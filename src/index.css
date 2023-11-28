@@ -1,3 +1,7 @@
 .roma {
   background-color: rgb(192, 233, 11);
 }
+html {
+  font-size: 0.85vw;
+  font-family:  Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+}
