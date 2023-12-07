@@ -1,0 +1,25 @@
+.card_container {
+    display: block;
+    max-width: 300px;
+}
+.card_container_info {
+    padding: 20px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.tmdbRank {
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+.card_container_img {
+    width: 300px;
+    height: 450px;
+}
+.card_container_img_backdrop {
+    width: 300px;
+    height: 200px;
+}

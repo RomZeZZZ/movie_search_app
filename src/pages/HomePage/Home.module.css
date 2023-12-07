@@ -1,0 +1,13 @@
+.card_field {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.main {
+    /* margin: 20px; */
+    width: 100%;
+    background-color: #141414;
+}
+.card {
+    display: flex;
+}
